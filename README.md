@@ -5,6 +5,17 @@ pandas·numpy를 이용한 데이터 처리부터 시각화까지, 개념을 직
 
 📅 **학습 기간:** 2025.09 ~ 2025.12 (2학년 2학기)
 
+## 📈 결과 예시
+
+노트북에 저장된 실행 결과 그래프 중 일부입니다.
+
+| | |
+| --- | --- |
+| ![서울 2024년 9월 기온](images/ch6-seoul-sep-temp.png) | ![지하수 수위 min-max 정규화 히스토그램](images/ch8-minmax-hist.png) |
+| **Chapter 6** — 기온 CSV에서 2024년 9월만 골라 서울의 일별 최고·평균 기온을 선 그래프로 비교 | **Chapter 8** — 대전 지하수 데이터의 수위(`level`)를 min-max 정규화하기 전과 후의 분포 비교 |
+| ![전라북도 인구 회귀선](images/ch10-jeonbuk-regression.png) | ![GDP와 행복지수 회귀선](images/happiness-gdp-regression.png) |
+| **Chapter 10** — 년월별 전라북도 인구에 선형회귀를 적용해 실제 데이터와 회귀선을 함께 표시 | **미니 실습 (World Happiness Report)** — 2019년 국가별 1인당 GDP와 행복지수의 산점도와 회귀선 |
+
 ## 📚 다루는 내용
 
 | 영역 | 라이브러리 |
